@@ -18,7 +18,7 @@ Primarily focussed on Qlik Sense Enterprise on Windows, all versions in the curr
 
 | Major Version             | Minor Version   | Build Number | Release date | End of support         | Notes                           |
 |---------------------------|-----------------|--------------|--------------|------------------------|---------------------------------|
-| Qlik Sense February 2020  | Initial release |              | 25/02/2020   | 28/02/2022             | Build to follow (base is 13.62) |
+| Qlik Sense February 2020  | Initial release | 13.62.6      | 25/02/2020   | 28/02/2022             | Delayed release                 |
 | Qlik Sense November 2019  | Patch 5         | 13.51.10     | 12/02/2020   | As per initial release |                                 |
 | Qlik Sense November 2019  | Patch 4         | 13.51.8      | 29/01/2020   | As per initial release |                                 |
 | Qlik Sense November 2019  | Patch 3         | 13.51.7      | 15/01/2020   | As per initial release |                                 |
