@@ -18,8 +18,15 @@ Only for Qlik Sense Enterprise on Windows, all versions in the current versionin
 
 | Major Version             | Minor Version   | Build Number | Release date | End of support         | Notes           |
 |---------------------------|-----------------|--------------|--------------|------------------------|-----------------|
+| Qlik Sense April 2020     | Patch 1         | 13.72.4      | 06/05/2020   | As per initial release |                 |
+| Qlik Sense April 2020     | Initial release | 13.72.3      | 14/04/2020   | 30/04/2022             |                 |
+| Qlik Sense February 2020  | Patch 3         | 13.62.11     | 06/05/2020   | As per initial release |                 |
+| Qlik Sense February 2020  | Patch 2         | 13.62.9      | 08/04/2020   | As per initial release |                 |
 | Qlik Sense February 2020  | Patch 1         | 13.62.7      | 11/03/2020   | As per initial release |                 |
 | Qlik Sense February 2020  | Initial release | 13.62.6      | 25/02/2020   | 28/02/2022             | Delayed release |
+| Qlik Sense November 2019  | Patch 10        | 13.51.18     | 06/05/2020   | As per initial release |                 |
+| Qlik Sense November 2019  | Patch 9         | 13.51.15     | 22/04/2020   | As per initial release |                 |
+| Qlik Sense November 2019  | Patch 8         | 13.51.14     | 08/04/2020   | As per initial release |                 |
 | Qlik Sense November 2019  | Patch 7         | 13.51.13     | 25/03/2020   | As per initial release |                 |
 | Qlik Sense November 2019  | Patch 6         | 13.51.12     | 04/03/2020   | As per initial release |                 |
 | Qlik Sense November 2019  | Patch 5         | 13.51.10     | 12/02/2020   | As per initial release |                 |
@@ -28,6 +35,8 @@ Only for Qlik Sense Enterprise on Windows, all versions in the current versionin
 | Qlik Sense November 2019  | Patch 2         | 13.51.6      | 18/12/2019   | As per initial release |                 |
 | Qlik Sense November 2019  | Patch 1         | 13.51.5      | 04/12/2019   | As per initial release |                 |
 | Qlik Sense November 2019  | Initial release | 13.51.4      | 11/11/2019   | 30/11/2021             | Re-released     |
+| Qlik Sense September 2019 | Patch 10        | 13.42.17     | 06/05/2020   | As per initial release |                 |
+| Qlik Sense September 2019 | Patch 9         | 13.42.16     | 08/04/2020   | As per initial release |                 |
 | Qlik Sense September 2019 | Patch 8         | 13.42.15     | 25/03/2020   | As per initial release |                 |
 | Qlik Sense September 2019 | Patch 7         | 13.42.14     | 04/03/2020   | As per initial release |                 |
 | Qlik Sense September 2019 | Patch 6         | 13.42.12     | 12/02/2020   | As per initial release |                 |
@@ -37,6 +46,7 @@ Only for Qlik Sense Enterprise on Windows, all versions in the current versionin
 | Qlik Sense September 2019 | Patch 2         | 13.42.6      | 04/12/2019   | As per initial release |                 |
 | Qlik Sense September 2019 | Patch 1         | 13.42.5      | 08/11/2019   | As per initial release |                 |
 | Qlik Sense September 2019 | Initial release | 13.42.1      | 30/09/2019   | 30/09/2021             |                 |
+| Qlik Sense June 2019      | Patch 13        | 13.32.19     | 08/04/2020   | As per initial release |                 |
 | Qlik Sense June 2019      | Patch 12        | 13.32.18     | 25/03/2020   | As per initial release |                 |
 | Qlik Sense June 2019      | Patch 11        | 13.32.16     | 05/03/2020   | As per initial release |                 |
 | Qlik Sense June 2019      | Patch 10        | 13.32.15     | 12/02/2020   | As per initial release |                 |
