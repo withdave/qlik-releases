@@ -1,0 +1,23 @@
+{
+  "name": "qlik-releases",
+  "version": "1.0.1",
+  "description": "Keeps track of Qlik product release dates and internal build numbers (information from Qlik knowledgebase and download site).",
+  "scripts": {
+    "build": "node ./build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/withdave/qlik-releases.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/withdave/qlik-releases/issues"
+  },
+  "homepage": "https://github.com/withdave/qlik-releases#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "xml-js": "^1.6.11"
+  }
+}
