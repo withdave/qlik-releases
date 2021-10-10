@@ -1,875 +1,1608 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<root>
-  <row>
+<release>
+    <Major Version>Qlik Sense August 2021</Major Version>
+    <Minor Version>Patch 3</Minor Version>
+    <Build Number>14.28.9</Build Number>
+    <Release date>29/09/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense August 2021</Major Version>
+    <Minor Version>Patch 2</Minor Version>
+    <Build Number>14.28.7</Build Number>
+    <Release date>15/09/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense August 2021</Major Version>
+    <Minor Version>Patch 1</Minor Version>
+    <Build Number>14.28.5</Build Number>
+    <Release date>01/09/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense August 2021</Major Version>
+    <Minor Version>Initial release</Minor Version>
+    <Build Number>14.28.3</Build Number>
+    <Release date>23/08/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense May 2021</Major Version>
+    <Minor Version>Patch 7</Minor Version>
+    <Build Number>14.20.15</Build Number>
+    <Release date>29/09/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense May 2021</Major Version>
+    <Minor Version>Patch 6</Minor Version>
+    <Build Number>14.20.14</Build Number>
+    <Release date>15/09/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense May 2021</Major Version>
+    <Minor Version>Patch 5</Minor Version>
+    <Build Number>14.20.13</Build Number>
+    <Release date>01/09/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense May 2021</Major Version>
+    <Minor Version>Patch 4</Minor Version>
+    <Build Number>14.20.10</Build Number>
+    <Release date>14/07/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense May 2021</Major Version>
+    <Minor Version>Patch 3</Minor Version>
+    <Build Number>14.20.9</Build Number>
+    <Release date>30/06/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense May 2021</Major Version>
+    <Minor Version>Patch 2</Minor Version>
+    <Build Number>14.20.8</Build Number>
+    <Release date>16/06/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense May 2021</Major Version>
+    <Minor Version>Patch 1</Minor Version>
+    <Build Number>14.20.6</Build Number>
+    <Release date>02/06/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense May 2021</Major Version>
+    <Minor Version>Initial release</Minor Version>
+    <Build Number>14.20.5</Build Number>
+    <Release date>10/05/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense February 2021</Major Version>
+    <Minor Version>Patch 12</Minor Version>
+    <Build Number>14.5.25</Build Number>
+    <Release date>15/09/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense February 2021</Major Version>
+    <Minor Version>Patch 11</Minor Version>
+    <Build Number>14.5.24</Build Number>
+    <Release date>01/09/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense February 2021</Major Version>
+    <Minor Version>Patch 10</Minor Version>
+    <Build Number>14.5.22</Build Number>
+    <Release date>14/07/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense February 2021</Major Version>
+    <Minor Version>Patch 9</Minor Version>
+    <Build Number>14.5.21</Build Number>
+    <Release date>30/06/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense February 2021</Major Version>
+    <Minor Version>Patch 8</Minor Version>
+    <Build Number>14.5.20</Build Number>
+    <Release date>16/06/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense February 2021</Major Version>
+    <Minor Version>Patch 7</Minor Version>
+    <Build Number>14.5.19</Build Number>
+    <Release date>02/06/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense February 2021</Major Version>
+    <Minor Version>Patch 6</Minor Version>
+    <Build Number>14.5.18</Build Number>
+    <Release date>19/05/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense February 2021</Major Version>
+    <Minor Version>Patch 5</Minor Version>
+    <Build Number>14.5.16</Build Number>
+    <Release date>18/05/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense February 2021</Major Version>
+    <Minor Version>Patch 4</Minor Version>
+    <Build Number>14.5.10</Build Number>
+    <Release date>07/04/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense February 2021</Major Version>
+    <Minor Version>Patch 3</Minor Version>
+    <Build Number>14.5.9</Build Number>
+    <Release date>25/03/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense February 2021</Major Version>
+    <Minor Version>Patch 2</Minor Version>
+    <Build Number>14.5.7</Build Number>
+    <Release date>10/03/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense February 2021</Major Version>
+    <Minor Version>Patch 1</Minor Version>
+    <Build Number>14.5.6</Build Number>
+    <Release date>24/02/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense February 2021</Major Version>
+    <Minor Version>Initial release</Minor Version>
+    <Build Number>14.5.4</Build Number>
+    <Release date>09/02/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense November 2020</Major Version>
+    <Minor Version>Patch 17</Minor Version>
+    <Build Number>13.102.25</Build Number>
+    <Release date>15/09/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense November 2020</Major Version>
+    <Minor Version>Patch 16</Minor Version>
+    <Build Number>13.102.24</Build Number>
+    <Release date>01/09/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense November 2020</Major Version>
+    <Minor Version>Patch 15</Minor Version>
+    <Build Number>13.102.23</Build Number>
+    <Release date>14/07/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense November 2020</Major Version>
+    <Minor Version>Patch 14</Minor Version>
+    <Build Number>13.102.22</Build Number>
+    <Release date>30/06/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense November 2020</Major Version>
+    <Minor Version>Patch 13</Minor Version>
+    <Build Number>13.102.21</Build Number>
+    <Release date>16/06/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense November 2020</Major Version>
+    <Minor Version>Patch 12</Minor Version>
+    <Build Number>13.102.20</Build Number>
+    <Release date>02/06/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense November 2020</Major Version>
+    <Minor Version>Patch 11</Minor Version>
+    <Build Number>13.102.19</Build Number>
+    <Release date>19/05/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense November 2020</Major Version>
+    <Minor Version>Patch 10</Minor Version>
+    <Build Number>13.102.17</Build Number>
+    <Release date>18/05/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense November 2020</Major Version>
+    <Minor Version>Patch 9</Minor Version>
+    <Build Number>13.102.16</Build Number>
+    <Release date>07/04/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense November 2020</Major Version>
+    <Minor Version>Patch 8</Minor Version>
+    <Build Number>13.102.15</Build Number>
+    <Release date>24/03/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense November 2020</Major Version>
+    <Minor Version>Patch 7</Minor Version>
+    <Build Number>13.102.14</Build Number>
+    <Release date>10/03/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense November 2020</Major Version>
+    <Minor Version>Patch 6</Minor Version>
+    <Build Number>13.102.13</Build Number>
+    <Release date>24/02/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense November 2020</Major Version>
+    <Minor Version>Patch 5</Minor Version>
+    <Build Number>13.102.12</Build Number>
+    <Release date>10/02/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense November 2020</Major Version>
+    <Minor Version>Patch 4</Minor Version>
+    <Build Number>13.102.11</Build Number>
+    <Release date>27/01/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense November 2020</Major Version>
+    <Minor Version>Patch 3</Minor Version>
+    <Build Number>13.102.10</Build Number>
+    <Release date>16/12/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense November 2020</Major Version>
+    <Minor Version>Patch 2</Minor Version>
+    <Build Number>13.102.8</Build Number>
+    <Release date>03/12/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense November 2020</Major Version>
+    <Minor Version>Patch 1</Minor Version>
+    <Build Number>13.102.6</Build Number>
+    <Release date>18/11/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense September 2020</Major Version>
+    <Minor Version>Initial release</Minor Version>
+    <Build Number>13.102.5</Build Number>
+    <Release date>10/11/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense September 2020</Major Version>
+    <Minor Version>Patch 15</Minor Version>
+    <Build Number>13.95.23</Build Number>
+    <Release date>15/09/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense September 2020</Major Version>
+    <Minor Version>Patch 14</Minor Version>
+    <Build Number>13.95.22</Build Number>
+    <Release date>30/06/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense September 2020</Major Version>
+    <Minor Version>Patch 14</Minor Version>
+    <Build Number>13.95.21</Build Number>
+    <Release date>19/05/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense September 2020</Major Version>
+    <Minor Version>Patch 12</Minor Version>
+    <Build Number>13.95.19</Build Number>
+    <Release date>18/05/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense September 2020</Major Version>
+    <Minor Version>Patch 11</Minor Version>
+    <Build Number>13.95.15</Build Number>
+    <Release date>07/04/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense September 2020</Major Version>
+    <Minor Version>Patch 10</Minor Version>
+    <Build Number>13.95.14</Build Number>
+    <Release date>24/03/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense September 2020</Major Version>
+    <Minor Version>Patch 9</Minor Version>
+    <Build Number>13.95.13</Build Number>
+    <Release date>10/03/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense September 2020</Major Version>
+    <Minor Version>Patch 8</Minor Version>
+    <Build Number>13.95.12</Build Number>
+    <Release date>27/01/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense September 2020</Major Version>
+    <Minor Version>Patch 7</Minor Version>
+    <Build Number>13.95.10</Build Number>
+    <Release date>16/12/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense September 2020</Major Version>
+    <Minor Version>Patch 6</Minor Version>
+    <Build Number>13.95.9</Build Number>
+    <Release date>03/12/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense September 2020</Major Version>
+    <Minor Version>Patch 5</Minor Version>
+    <Build Number>13.95.8</Build Number>
+    <Release date>18/11/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense September 2020</Major Version>
+    <Minor Version>Patch 4</Minor Version>
+    <Build Number>13.95.7</Build Number>
+    <Release date>04/11/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense September 2020</Major Version>
+    <Minor Version>Patch 3</Minor Version>
+    <Build Number>13.95.6</Build Number>
+    <Release date>21/10/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense September 2020</Major Version>
+    <Minor Version>Patch 2</Minor Version>
+    <Build Number>13.95.5</Build Number>
+    <Release date>07/10/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense September 2020</Major Version>
+    <Minor Version>Patch 1</Minor Version>
+    <Build Number>13.95.4</Build Number>
+    <Release date>23/09/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense September 2020</Major Version>
+    <Minor Version>Initial release</Minor Version>
+    <Build Number>13.95.3</Build Number>
+    <Release date>09/09/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense June 2020</Major Version>
+    <Minor Version>Patch 18</Minor Version>
+    <Build Number>13.82.29</Build Number>
+    <Release date>30/06/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense June 2020</Major Version>
+    <Minor Version>Patch 17</Minor Version>
+    <Build Number>13.82.28</Build Number>
+    <Release date>19/05/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense June 2020</Major Version>
+    <Minor Version>Patch 16</Minor Version>
+    <Build Number>13.82.26</Build Number>
+    <Release date>18/05/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense June 2020</Major Version>
+    <Minor Version>Patch 15</Minor Version>
+    <Build Number>13.82.23</Build Number>
+    <Release date>07/04/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense June 2020</Major Version>
+    <Minor Version>Patch 14</Minor Version>
+    <Build Number>13.82.22</Build Number>
+    <Release date>24/02/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense June 2020</Major Version>
+    <Minor Version>Patch 13</Minor Version>
+    <Build Number>13.82.21</Build Number>
+    <Release date>27/01/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense June 2020</Major Version>
+    <Minor Version>Patch 12</Minor Version>
+    <Build Number>13.82.20</Build Number>
+    <Release date>16/12/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense June 2020</Major Version>
+    <Minor Version>Patch 11</Minor Version>
+    <Build Number>13.82.19</Build Number>
+    <Release date>03/12/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense June 2020</Major Version>
+    <Minor Version>Patch 10</Minor Version>
+    <Build Number>13.82.18</Build Number>
+    <Release date>18/11/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense June 2020</Major Version>
+    <Minor Version>Patch 9</Minor Version>
+    <Build Number>13.82.17</Build Number>
+    <Release date>04/11/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense June 2020</Major Version>
+    <Minor Version>Patch 8</Minor Version>
+    <Build Number>13.82.16</Build Number>
+    <Release date>21/10/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense June 2020</Major Version>
+    <Minor Version>Patch 7</Minor Version>
+    <Build Number>13.82.15</Build Number>
+    <Release date>07/10/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense June 2020</Major Version>
+    <Minor Version>Patch 6</Minor Version>
+    <Build Number>13.82.14</Build Number>
+    <Release date>23/09/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense June 2020</Major Version>
+    <Minor Version>Patch 5</Minor Version>
+    <Build Number>13.82.13</Build Number>
+    <Release date>09/09/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense June 2020</Major Version>
+    <Minor Version>Patch 4</Minor Version>
+    <Build Number>13.82.12</Build Number>
+    <Release date>26/08/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense June 2020</Major Version>
+    <Minor Version>Patch 3</Minor Version>
+    <Build Number>13.82.11</Build Number>
+    <Release date>16/07/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense June 2020</Major Version>
+    <Minor Version>Patch 2</Minor Version>
+    <Build Number>13.82.8</Build Number>
+    <Release date>10/07/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense June 2020</Major Version>
+    <Minor Version>Patch 1</Minor Version>
+    <Build Number>13.82.6</Build Number>
+    <Release date>17/06/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense June 2020</Major Version>
+    <Minor Version>Initial release</Minor Version>
+    <Build Number>13.82.4</Build Number>
+    <Release date>10/06/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense April 2020</Major Version>
+    <Minor Version>Patch 17</Minor Version>
+    <Build Number>13.72.26</Build Number>
+    <Release date>19/05/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense April 2020</Major Version>
+    <Minor Version>Patch 16</Minor Version>
+    <Build Number>13.72.25</Build Number>
+    <Release date>18/05/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense April 2020</Major Version>
+    <Minor Version>Patch 15</Minor Version>
+    <Build Number>13.72.22</Build Number>
+    <Release date>07/04/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense April 2020</Major Version>
+    <Minor Version>Patch 14</Minor Version>
+    <Build Number>13.72.21</Build Number>
+    <Release date>10/03/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense April 2020</Major Version>
+    <Minor Version>Patch 13</Minor Version>
+    <Build Number>13.72.20</Build Number>
+    <Release date>27/01/2021</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense April 2020</Major Version>
+    <Minor Version>Patch 12</Minor Version>
+    <Build Number>13.72.19</Build Number>
+    <Release date>16/12/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense April 2020</Major Version>
+    <Minor Version>Patch 11</Minor Version>
+    <Build Number>13.72.18</Build Number>
+    <Release date>03/12/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense April 2020</Major Version>
+    <Minor Version>Patch 10</Minor Version>
+    <Build Number>13.72.17</Build Number>
+    <Release date>04/11/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense April 2020</Major Version>
+    <Minor Version>Patch 9</Minor Version>
+    <Build Number>13.72.16</Build Number>
+    <Release date>21/10/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense April 2020</Major Version>
+    <Minor Version>Patch 8</Minor Version>
+    <Build Number>13.72.15</Build Number>
+    <Release date>07/10/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense April 2020</Major Version>
+    <Minor Version>Patch 7</Minor Version>
+    <Build Number>13.72.14</Build Number>
+    <Release date>23/09/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense April 2020</Major Version>
+    <Minor Version>Patch 6</Minor Version>
+    <Build Number>13.72.13</Build Number>
+    <Release date>26/08/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense April 2020</Major Version>
+    <Minor Version>Patch 5</Minor Version>
+    <Build Number>13.72.12</Build Number>
+    <Release date>16/07/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
+    <Major Version>Qlik Sense April 2020</Major Version>
+    <Minor Version>Patch 4</Minor Version>
+    <Build Number>13.72.9</Build Number>
+    <Release date>01/07/2020</Release date>
+    <End of support>As per initial release</End of support>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense April 2020</Major Version>
     <Minor Version>Patch 3</Minor Version>
     <Build Number>13.72.8</Build Number>
     <Release date>03/06/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense April 2020</Major Version>
     <Minor Version>Patch 2</Minor Version>
     <Build Number>13.72.5</Build Number>
     <Release date>20/05/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense April 2020</Major Version>
     <Minor Version>Patch 1</Minor Version>
     <Build Number>13.72.4</Build Number>
     <Release date>06/05/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense April 2020</Major Version>
     <Minor Version>Initial release</Minor Version>
     <Build Number>13.72.3</Build Number>
     <Release date>14/04/2020</Release date>
     <End of support>30/04/2022</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense February 2020</Major Version>
     <Minor Version>Patch 5</Minor Version>
     <Build Number>13.62.14</Build Number>
     <Release date>03/06/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense February 2020</Major Version>
     <Minor Version>Patch 4</Minor Version>
     <Build Number>13.62.12</Build Number>
     <Release date>20/05/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense February 2020</Major Version>
     <Minor Version>Patch 3</Minor Version>
     <Build Number>13.62.11</Build Number>
     <Release date>06/05/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense February 2020</Major Version>
     <Minor Version>Patch 2</Minor Version>
     <Build Number>13.62.9</Build Number>
     <Release date>08/04/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense February 2020</Major Version>
     <Minor Version>Patch 1</Minor Version>
     <Build Number>13.62.7</Build Number>
     <Release date>11/03/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense February 2020</Major Version>
     <Minor Version>Initial release</Minor Version>
     <Build Number>13.62.6</Build Number>
     <Release date>25/02/2020</Release date>
     <End of support>28/02/2022</End of support>
     <Notes>Delayed release</Notes>
-  </row>
-  <row>
+</release>
+<release>
     <Major Version>Qlik Sense November 2019</Major Version>
     <Minor Version>Patch 11</Minor Version>
     <Build Number>13.51.19</Build Number>
     <Release date>20/05/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense November 2019</Major Version>
     <Minor Version>Patch 10</Minor Version>
     <Build Number>13.51.18</Build Number>
     <Release date>06/05/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense November 2019</Major Version>
     <Minor Version>Patch 9</Minor Version>
     <Build Number>13.51.15</Build Number>
     <Release date>22/04/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense November 2019</Major Version>
     <Minor Version>Patch 8</Minor Version>
     <Build Number>13.51.14</Build Number>
     <Release date>08/04/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense November 2019</Major Version>
     <Minor Version>Patch 7</Minor Version>
     <Build Number>13.51.13</Build Number>
     <Release date>25/03/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense November 2019</Major Version>
     <Minor Version>Patch 6</Minor Version>
     <Build Number>13.51.12</Build Number>
     <Release date>04/03/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense November 2019</Major Version>
     <Minor Version>Patch 5</Minor Version>
     <Build Number>13.51.10</Build Number>
     <Release date>12/02/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense November 2019</Major Version>
     <Minor Version>Patch 4</Minor Version>
     <Build Number>13.51.8</Build Number>
     <Release date>29/01/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense November 2019</Major Version>
     <Minor Version>Patch 3</Minor Version>
     <Build Number>13.51.7</Build Number>
     <Release date>15/01/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense November 2019</Major Version>
     <Minor Version>Patch 2</Minor Version>
     <Build Number>13.51.6</Build Number>
     <Release date>18/12/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense November 2019</Major Version>
     <Minor Version>Patch 1</Minor Version>
     <Build Number>13.51.5</Build Number>
     <Release date>04/12/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense November 2019</Major Version>
     <Minor Version>Initial release</Minor Version>
     <Build Number>13.51.4</Build Number>
     <Release date>11/11/2019</Release date>
     <End of support>30/11/2021</End of support>
     <Notes>Re-released</Notes>
-  </row>
-  <row>
+</release>
+<release>
     <Major Version>Qlik Sense September 2019</Major Version>
     <Minor Version>Patch 11</Minor Version>
     <Build Number>13.42.18</Build Number>
     <Release date>03/06/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense September 2019</Major Version>
     <Minor Version>Patch 10</Minor Version>
     <Build Number>13.42.17</Build Number>
     <Release date>06/05/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense September 2019</Major Version>
     <Minor Version>Patch 9</Minor Version>
     <Build Number>13.42.16</Build Number>
     <Release date>08/04/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense September 2019</Major Version>
     <Minor Version>Patch 8</Minor Version>
     <Build Number>13.42.15</Build Number>
     <Release date>25/03/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense September 2019</Major Version>
     <Minor Version>Patch 7</Minor Version>
     <Build Number>13.42.14</Build Number>
     <Release date>04/03/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense September 2019</Major Version>
     <Minor Version>Patch 6</Minor Version>
     <Build Number>13.42.12</Build Number>
     <Release date>12/02/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense September 2019</Major Version>
     <Minor Version>Patch 5</Minor Version>
     <Build Number>13.42.10</Build Number>
     <Release date>29/01/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense September 2019</Major Version>
     <Minor Version>Patch 4</Minor Version>
     <Build Number>13.42.9</Build Number>
     <Release date>15/01/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense September 2019</Major Version>
     <Minor Version>Patch 3</Minor Version>
     <Build Number>13.42.8</Build Number>
     <Release date>18/12/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense September 2019</Major Version>
     <Minor Version>Patch 2</Minor Version>
     <Build Number>13.42.6</Build Number>
     <Release date>04/12/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense September 2019</Major Version>
     <Minor Version>Patch 1</Minor Version>
     <Build Number>13.42.5</Build Number>
     <Release date>08/11/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense September 2019</Major Version>
     <Minor Version>Initial release</Minor Version>
     <Build Number>13.42.1</Build Number>
     <Release date>30/09/2019</Release date>
     <End of support>30/09/2021</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense June 2019</Major Version>
     <Minor Version>Patch 13</Minor Version>
     <Build Number>13.32.19</Build Number>
     <Release date>08/04/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense June 2019</Major Version>
     <Minor Version>Patch 12</Minor Version>
     <Build Number>13.32.18</Build Number>
     <Release date>25/03/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense June 2019</Major Version>
     <Minor Version>Patch 11</Minor Version>
     <Build Number>13.32.16</Build Number>
     <Release date>05/03/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense June 2019</Major Version>
     <Minor Version>Patch 10</Minor Version>
     <Build Number>13.32.15</Build Number>
     <Release date>12/02/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense June 2019</Major Version>
     <Minor Version>Patch 9</Minor Version>
     <Build Number>13.32.12</Build Number>
     <Release date>29/01/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense June 2019</Major Version>
     <Minor Version>Patch 8</Minor Version>
     <Build Number>13.32.11</Build Number>
     <Release date>15/01/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense June 2019</Major Version>
     <Minor Version>Patch 7</Minor Version>
     <Build Number>13.32.10</Build Number>
     <Release date>18/12/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense June 2019</Major Version>
     <Minor Version>Patch 6</Minor Version>
     <Build Number>13.32.9</Build Number>
     <Release date>04/12/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense June 2019</Major Version>
     <Minor Version>Patch 5</Minor Version>
     <Build Number>13.32.8</Build Number>
     <Release date>20/11/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense June 2019</Major Version>
     <Minor Version>Patch 4</Minor Version>
     <Build Number>13.32.7</Build Number>
     <Release date>06/11/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense June 2019</Major Version>
     <Minor Version>Patch 3</Minor Version>
     <Build Number>13.32.6</Build Number>
     <Release date>11/10/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense June 2019</Major Version>
     <Minor Version>Patch 2</Minor Version>
     <Build Number>13.32.4</Build Number>
     <Release date>10/09/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense June 2019</Major Version>
     <Minor Version>Patch 1</Minor Version>
     <Build Number>13.32.3</Build Number>
     <Release date>29/08/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense June 2019</Major Version>
     <Minor Version>Initial release</Minor Version>
     <Build Number>13.32.2</Build Number>
     <Release date>28/06/2019</Release date>
     <End of support>30/06/2021</End of support>
     <Notes>Re-released</Notes>
-  </row>
-  <row>
+</release>
+<release>
     <Major Version>Qlik Sense April 2019</Major Version>
     <Minor Version>Patch 9</Minor Version>
     <Build Number>13.21.20</Build Number>
     <Release date>25/03/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense April 2019</Major Version>
     <Minor Version>Patch 8</Minor Version>
     <Build Number>13.21.19</Build Number>
     <Release date>05/03/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense April 2019</Major Version>
     <Minor Version>Patch 7</Minor Version>
     <Build Number>13.21.18</Build Number>
     <Release date>12/02/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense April 2019</Major Version>
     <Minor Version>Patch 6</Minor Version>
     <Build Number>13.21.14</Build Number>
     <Release date>15/01/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense April 2019</Major Version>
     <Minor Version>Patch 5</Minor Version>
     <Build Number>13.21.13</Build Number>
     <Release date>04/12/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense April 2019</Major Version>
     <Minor Version>Patch 4</Minor Version>
     <Build Number>13.21.12</Build Number>
     <Release date>20/11/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense April 2019</Major Version>
     <Minor Version>Patch 3</Minor Version>
     <Build Number>13.21.10</Build Number>
     <Release date>30/08/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense April 2019</Major Version>
     <Minor Version>Patch 2</Minor Version>
     <Build Number>13.21.9</Build Number>
     <Release date>12/07/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense April 2019</Major Version>
     <Minor Version>Patch 1</Minor Version>
     <Build Number>13.21.2</Build Number>
     <Release date>14/05/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense April 2019</Major Version>
     <Minor Version>Initial release</Minor Version>
     <Build Number>13.21.1</Build Number>
     <Release date>25/04/2019</Release date>
     <End of support>30/04/2021</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense February 2019</Major Version>
     <Minor Version>Patch 9</Minor Version>
     <Build Number>13.9.20</Build Number>
     <Release date>25/03/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense February 2019</Major Version>
     <Minor Version>Patch 8</Minor Version>
     <Build Number>13.9.19</Build Number>
     <Release date>04/03/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense February 2019</Major Version>
     <Minor Version>Patch 7</Minor Version>
     <Build Number>13.9.18</Build Number>
     <Release date>12/02/2020</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense February 2019</Major Version>
     <Minor Version>Patch 6</Minor Version>
     <Build Number>13.9.16</Build Number>
     <Release date>18/12/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense February 2019</Major Version>
     <Minor Version>Patch 5</Minor Version>
     <Build Number>13.9.14</Build Number>
     <Release date>20/11/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense February 2019</Major Version>
     <Minor Version>Patch 4</Minor Version>
     <Build Number>13.9.8</Build Number>
     <Release date>09/07/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense February 2019</Major Version>
     <Minor Version>Patch 3</Minor Version>
     <Build Number>13.9.6</Build Number>
     <Release date>23/05/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense February 2019</Major Version>
     <Minor Version>Patch 2</Minor Version>
     <Build Number>13.9.3</Build Number>
     <Release date>16/04/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense February 2019</Major Version>
     <Minor Version>Patch 1</Minor Version>
     <Build Number>13.9.2</Build Number>
     <Release date>26/03/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense February 2019</Major Version>
     <Minor Version>Initial release</Minor Version>
     <Build Number>13.9.1</Build Number>
     <Release date>12/02/2019</Release date>
     <End of support>28/02/2021</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense November 2018</Major Version>
     <Minor Version>Patch 8</Minor Version>
     <Build Number>12.44.17</Build Number>
     <Release date>04/12/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense November 2018</Major Version>
     <Minor Version>Patch 7</Minor Version>
     <Build Number>12.44.16</Build Number>
     <Release date>06/11/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense November 2018</Major Version>
     <Minor Version>Patch 6</Minor Version>
     <Build Number>12.44.11</Build Number>
     <Release date>27/06/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense November 2018</Major Version>
     <Minor Version>Patch 5</Minor Version>
     <Build Number>12.44.9</Build Number>
     <Release date>23/05/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense November 2018</Major Version>
     <Minor Version>Patch 4</Minor Version>
     <Build Number>12.44.7</Build Number>
     <Release date>16/04/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense November 2018</Major Version>
     <Minor Version>Patch 3</Minor Version>
     <Build Number>12.44.5</Build Number>
     <Release date>28/02/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense November 2018</Major Version>
     <Minor Version>Patch 2</Minor Version>
     <Build Number>12.44.3</Build Number>
     <Release date>13/12/2018</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense November 2018</Major Version>
     <Minor Version>Patch 1</Minor Version>
     <Build Number>12.44.2</Build Number>
     <Release date>15/11/2018</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense November 2018</Major Version>
     <Minor Version>Initial release</Minor Version>
     <Build Number>12.44.1</Build Number>
     <Release date>13/11/2018</Release date>
     <End of support>30/11/2020</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense September 2018</Major Version>
     <Minor Version>Patch 4</Minor Version>
     <Build Number>12.36.10</Build Number>
     <Release date>16/04/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense September 2018</Major Version>
     <Minor Version>Patch 3</Minor Version>
     <Build Number>12.36.9</Build Number>
     <Release date>18/03/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense September 2018</Major Version>
     <Minor Version>Patch 2</Minor Version>
     <Build Number>12.36.6</Build Number>
     <Release date>12/11/2018</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense September 2018</Major Version>
     <Minor Version>Patch 1</Minor Version>
     <Build Number>12.36.3</Build Number>
     <Release date>16/10/2018</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense September 2018</Major Version>
     <Minor Version>Initial release</Minor Version>
     <Build Number>12.36.1</Build Number>
     <Release date>11/09/2018</Release date>
     <End of support>30/09/2020</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense June 2018</Major Version>
     <Minor Version>Patch 3</Minor Version>
     <Build Number>12.26.9</Build Number>
     <Release date>16/04/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense June 2018</Major Version>
     <Minor Version>Patch 2</Minor Version>
     <Build Number>12.26.4</Build Number>
     <Release date>12/11/2018</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense June 2018</Major Version>
     <Minor Version>Patch 1</Minor Version>
     <Build Number>12.26.3</Build Number>
     <Release date>30/08/2018</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense June 2018</Major Version>
     <Minor Version>Initial release</Minor Version>
     <Build Number>12.26.1</Build Number>
     <Release date>26/06/2018</Release date>
     <End of support>30/06/2020</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense April 2018</Major Version>
     <Minor Version>Patch 3</Minor Version>
     <Build Number>12.16.7</Build Number>
     <Release date>16/04/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense April 2018</Major Version>
     <Minor Version>Patch 2</Minor Version>
     <Build Number>12.16.4</Build Number>
     <Release date>21/11/2018</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense April 2018</Major Version>
     <Minor Version>Patch 1</Minor Version>
     <Build Number>12.16.3</Build Number>
     <Release date>20/06/2018</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense April 2018</Major Version>
     <Minor Version>Initial release</Minor Version>
     <Build Number>12.16.2</Build Number>
     <Release date>19/04/2018</Release date>
     <End of support>30/04/2020</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense February 2018</Major Version>
     <Minor Version>Patch 4</Minor Version>
     <Build Number>12.5.10</Build Number>
     <Release date>16/04/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense February 2018</Major Version>
     <Minor Version>Patch 3</Minor Version>
     <Build Number>12.5.8</Build Number>
     <Release date>29/10/2018</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense February 2018</Major Version>
     <Minor Version>Patch 2</Minor Version>
     <Build Number>12.5.5</Build Number>
     <Release date>05/06/2018</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense February 2018</Major Version>
     <Minor Version>Patch 1</Minor Version>
     <Build Number>12.5.3</Build Number>
     <Release date>27/02/2018</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense February 2018</Major Version>
     <Minor Version>Initial release</Minor Version>
     <Build Number>12.5.2</Build Number>
     <Release date>13/02/2018</Release date>
     <End of support>29/02/2020</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense November 2017</Major Version>
     <Minor Version>Patch 4</Minor Version>
     <Build Number>11.24.14</Build Number>
     <Release date>29/05/2019</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense November 2017</Major Version>
     <Minor Version>Patch 3</Minor Version>
     <Build Number>11.24.5</Build Number>
     <Release date>13/02/2018</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense November 2017</Major Version>
     <Minor Version>Patch 2</Minor Version>
     <Build Number>11.24.4</Build Number>
     <Release date>18/01/2018</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense November 2017</Major Version>
     <Minor Version>Patch 1</Minor Version>
     <Build Number>11.24.3</Build Number>
     <Release date>01/12/2017</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense November 2017</Major Version>
     <Minor Version>Initial release</Minor Version>
     <Build Number>11.24.1</Build Number>
     <Release date>14/11/2017</Release date>
     <End of support>30/11/2019</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense September 2017</Major Version>
     <Minor Version>Patch 4</Minor Version>
     <Build Number>11.14.8</Build Number>
     <Release date>19/09/2017</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense September 2017</Major Version>
     <Minor Version>Patch 3</Minor Version>
     <Build Number>11.14.7</Build Number>
     <Release date>15/02/2018</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense September 2017</Major Version>
     <Minor Version>Patch 2</Minor Version>
     <Build Number>11.14.5</Build Number>
     <Release date>08/12/2017</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense September 2017</Major Version>
     <Minor Version>Patch 1</Minor Version>
     <Build Number>11.14.4</Build Number>
     <Release date>31/10/2017</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense September 2017</Major Version>
     <Minor Version>Initial release</Minor Version>
     <Build Number>11.14.3</Build Number>
     <Release date>19/09/2017</Release date>
     <End of support>30/09/2019</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense June 2017</Major Version>
     <Minor Version>Patch 3</Minor Version>
     <Build Number>11.11.4</Build Number>
     <Release date>17/11/2017</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense June 2017</Major Version>
     <Minor Version>Patch 2</Minor Version>
     <Build Number>11.11.3</Build Number>
     <Release date>28/08/2017</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense June 2017</Major Version>
     <Minor Version>Patch 1</Minor Version>
     <Build Number>11.11.2</Build Number>
     <Release date>25/07/2017</Release date>
     <End of support>As per initial release</End of support>
-    <Notes></Notes>
-  </row>
-  <row>
+    <Notes/>
+</release>
+<release>
     <Major Version>Qlik Sense June 2017</Major Version>
     <Minor Version>Initial release</Minor Version>
     <Build Number>11.11.1</Build Number>
     <Release date>29/06/2017</Release date>
     <End of support>30/06/2019</End of support>
-    <Notes></Notes>
-  </row>
-</root>
+    <Notes/>
+</release>

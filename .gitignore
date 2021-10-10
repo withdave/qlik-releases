@@ -4,6 +4,7 @@
 ## Qlik exclusions
 # Ignore all Qlik data files
 *.qvd
+node_modules
 
 
 ## Windows exclusions
