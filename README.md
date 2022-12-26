@@ -1,6 +1,6 @@
 # qlik-releases
 
-Keeps track of Qlik product release dates and internal build numbers (information from Qlik knowledgebase and download site).
+Keeps track of Qlik product release dates and internal build numbers (information from Qlik knowledge base and download site).
 
 Information is believed to be accurate at time of commit, however always check with Qlik directly before acting on the information in this repository.
 
@@ -10,18 +10,80 @@ The data can be downloaded in `csv`, `json` and `xml`
 
 The information on this page has been collated from:
 
-- - Qlik knowledgebase: Release list (partially complete) - https://support.qlik.com/articles/000033652
-- - Qlik knowledgebase: End of support dates - https://support.qlik.com/articles/000043971
+- Qlik knowledge base: Release list (partially complete) - [https://support.qlik.com/articles/000033652](https://support.qlik.com/articles/000033652)
+- Qlik knowledge base: End of support dates - [https://support.qlik.com/articles/000043971](https://support.qlik.com/articles/000043971)
 - Qlik Product Download site (for build numbers and release dates as sometimes a version is re-released to fix a bug)
 
-* not active anymore or missing
-
-# Qlik Sense
+## Qlik Sense
 
 Only for Qlik Sense Enterprise on Windows, all versions in the current versioning schema.
 
 | Major Version             | Minor Version   | Build Number | Release date | End of support         | Notes           |
 | ------------------------- | --------------- | ------------ | ------------ | ---------------------- | --------------- |
+| Qlik Sense November 2022  | Patch 3         | 14.97.6      | 21/12/2022   | As per initial release |                 |
+| Qlik Sense November 2022  | Patch 2         | 14.97.5      | 07/12/2022   | As per initial release |                 |
+| Qlik Sense November 2022  | Patch 1         | 14.97.4      | 23/11/2022   | As per initial release |                 |
+| Qlik Sense November 2022  | Initial release | 14.97.3      | 08/11/2022   | As per initial release |                 |
+| Qlik Sense August 2022    | Patch 6         | 14.78.13     | 21/12/2022   | As per initial release |                 |
+| Qlik Sense August 2022    | Patch 5         | 14.78.12     | 23/11/2022   | As per initial release |                 |
+| Qlik Sense August 2022    | Patch 4         | 14.78.11     | 09/11/2022   | As per initial release |                 |
+| Qlik Sense August 2022    | Patch 3         | 14.78.10     | 29/10/2022   | As per initial release |                 |
+| Qlik Sense August 2022    | Patch 2         | 14.78.8      | 12/10/2022   | As per initial release |                 |
+| Qlik Sense August 2022    | Patch 1         | 14.78.7      | 15/09/2022   | As per initial release |                 |
+| Qlik Sense August 2022    | Initial release | 14.78.5      | 23/08/2022   | As per initial release |                 |
+| Qlik Sense May 2022       | Patch 11        | 14.67.23     | 21/12/2022   | As per initial release |                 |
+| Qlik Sense May 2022       | Patch 10        | 14.67.22     | 23/11/2022   | As per initial release |                 |
+| Qlik Sense May 2022       | Patch 9         | 14.67.21     | 09/11/2022   | As per initial release |                 |
+| Qlik Sense May 2022       | Patch 8         | 14.67.20     | 26/10/2022   | As per initial release |                 |
+| Qlik Sense May 2022       | Patch 7         | 14.67.18     | 12/10/2022   | As per initial release |                 |
+| Qlik Sense May 2022       | Patch 6         | 14.67.17     | 15/09/2022   | As per initial release |                 |
+| Qlik Sense May 2022       | Patch 5         | 14.67.15     | 24/08/2022   | As per initial release |                 |
+| Qlik Sense May 2022       | Patch 4         | 14.67.13     | 29/06/2022   | As per initial release |                 |
+| Qlik Sense May 2022       | Patch 3         | 14.67.12     | 15/06/2022   | As per initial release |                 |
+| Qlik Sense May 2022       | Patch 2         | 14.67.9      | 01/06/2022   | As per initial release |                 |
+| Qlik Sense May 2022       | Patch 1         | 14.67.7      | 18/05/2022   | As per initial release |                 |
+| Qlik Sense May 2022       | Initial release | 14.67.7      | 10/05/2022   | As per initial release |                 |
+| Qlik Sense February 2022  | Patch 13        | 14.54.22     | 23/11/2022   | As per initial release |                 |
+| Qlik Sense February 2022  | Patch 12        | 14.54.21     | 09/11/2022   | As per initial release |                 |
+| Qlik Sense February 2022  | Patch 11        | 14.54.20     | 27/10/2022   | As per initial release |                 |
+| Qlik Sense February 2022  | Patch 10        | 14.54.18     | 12/10/2022   | As per initial release |                 |
+| Qlik Sense February 2022  | Patch 9         | 14.54.17     | 15/09/2022   | As per initial release |                 |
+| Qlik Sense February 2022  | Patch 8         | 14.54.15     | 24/08/2022   | As per initial release |                 |
+| Qlik Sense February 2022  | Patch 7         | 14.54.12     | 29/06/2022   | As per initial release |                 |
+| Qlik Sense February 2022  | Patch 6         | 14.54.11     | 15/06/2022   | As per initial release |                 |
+| Qlik Sense February 2022  | Patch 5         | 14.54.10     | 01/06/2022   | As per initial release |                 |
+| Qlik Sense February 2022  | Patch 4         | 14.54.8      | 18/05/2022   | As per initial release |                 |
+| Qlik Sense February 2022  | Patch 3         | 14.54.6      | 20/04/2022   | As per initial release |                 |
+| Qlik Sense February 2022  | Patch 2         | 14.54.5      | 23/03/2022   | As per initial release |                 |
+| Qlik Sense February 2022  | Patch 1         | 14.54.4      | 23/02/2022   | As per initial release |                 |
+| Qlik Sense February 2022  | Initial release | 14.54.2      | 15/02/2022   | As per initial release |                 |
+| Qlik Sense November 2021  | Patch 16        | 14.44.24     | 23/10/2022   | As per initial release |                 |
+| Qlik Sense November 2021  | Patch 15        | 14.44.23     | 12/10/2022   | As per initial release |                 |
+| Qlik Sense November 2021  | Patch 14        | 14.44.22     | 15/09/2022   | As per initial release |                 |
+| Qlik Sense November 2021  | Patch 13        | 14.44.20     | 24/08/2022   | As per initial release |                 |
+| Qlik Sense November 2021  | Patch 12        | 14.44.19     | 29/06/2022   | As per initial release |                 |
+| Qlik Sense November 2021  | Patch 11        | 14.44.18     | 15/06/2022   | As per initial release |                 |
+| Qlik Sense November 2021  | Patch 10        | 14.44.17     | 01/06/2022   | As per initial release |                 |
+| Qlik Sense November 2021  | Patch 9         | 14.44.15     | 18/05/2022   | As per initial release |                 |
+| Qlik Sense November 2021  | Patch 8         | 14.44.13     | 20/04/2022   | As per initial release |                 |
+| Qlik Sense November 2021  | Patch 7         | 14.44.12     | 06/04/2022   | As per initial release |                 |
+| Qlik Sense November 2021  | Patch 6         | 14.44.11     | 23/03/2022   | As per initial release |                 |
+| Qlik Sense November 2021  | Patch 5         | 14.44.10     | 09/03/2022   | As per initial release |                 |
+| Qlik Sense November 2021  | Patch 4         | 14.44.9      | 27/01/2022   | As per initial release |                 |
+| Qlik Sense November 2021  | Patch 3         | 14.44.8      | 05/01/2022   | As per initial release |                 |
+| Qlik Sense November 2021  | Patch 2         | 14.44.7      | 17/12/2022   | As per initial release |                 |
+| Qlik Sense November 2021  | Patch 1         | 14.44.6      | 06/12/2021   | As per initial release |                 |
+| Qlik Sense November 2021  | Initial release | 14.44.5      | 10/11/2021   | As per initial release |                 |
+| Qlik Sense August 2021    | Patch 13        | 14.28.21     | 29/06/2022   | As per initial release |                 |
+| Qlik Sense August 2021    | Patch 12        | 14.28.20     | 15/06/2022   | As per initial release |                 |
+| Qlik Sense August 2021    | Patch 11        | 14.28.19     | 18/05/2022   | As per initial release |                 |
+| Qlik Sense August 2021    | Patch 10        | 14.28.17     | 20/04/2022   | As per initial release |                 |
+| Qlik Sense August 2021    | Patch 9         | 14.28.16     | 23/03/2022   | As per initial release |                 |
+| Qlik Sense August 2021    | Patch 8         | 14.28.15     | 23/02/2022   | As per initial release |                 |
+| Qlik Sense August 2021    | Patch 7         | 14.28.14     | 27/01/2022   | As per initial release |                 |
+| Qlik Sense August 2021    | Patch 6         | 14.28.13     | 05/01/2022   | As per initial release |                 |
+| Qlik Sense August 2021    | Patch 5         | 14.28.12     | 17/12/2021   | As per initial release |                 |
+| Qlik Sense August 2021    | Patch 4         | 14.28.10     | 44547        | As per initial release |                 |
 | Qlik Sense August 2021    | Patch 3         | 14.28.9      | 29/09/2021   | As per initial release |                 |
 | Qlik Sense August 2021    | Patch 2         | 14.28.7      | 15/09/2021   | As per initial release |                 |
 | Qlik Sense August 2021    | Patch 1         | 14.28.5      | 01/09/2021   | As per initial release |                 |

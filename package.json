@@ -1,7 +1,7 @@
 {
   "name": "qlik-releases",
-  "version": "1.0.1",
-  "description": "Keeps track of Qlik product release dates and internal build numbers (information from Qlik knowledgebase and download site).",
+  "version": "1.0.2",
+  "description": "Keeps track of Qlik product release dates and internal build numbers (information from Qlik knowledge base and download site).",
   "scripts": {
     "build": "node ./build.js"
   },

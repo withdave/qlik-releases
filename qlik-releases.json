@@ -1,5 +1,517 @@
 [
     {
+        "Major Version": "Qlik Sense November 2022",
+        "Minor Version": "Patch 3",
+        "Build Number": "14.97.6",
+        "Release date": "21/12/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense November 2022",
+        "Minor Version": "Patch 2",
+        "Build Number": "14.97.5",
+        "Release date": "07/12/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense November 2022",
+        "Minor Version": "Patch 1",
+        "Build Number": "14.97.4",
+        "Release date": "23/11/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense November 2022",
+        "Minor Version": "Initial release",
+        "Build Number": "14.97.3",
+        "Release date": "08/11/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense August 2022",
+        "Minor Version": "Patch 6",
+        "Build Number": "14.78.13",
+        "Release date": "21/12/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense August 2022",
+        "Minor Version": "Patch 5",
+        "Build Number": "14.78.12",
+        "Release date": "23/11/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense August 2022",
+        "Minor Version": "Patch 4",
+        "Build Number": "14.78.11",
+        "Release date": "09/11/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense August 2022",
+        "Minor Version": "Patch 3",
+        "Build Number": "14.78.10",
+        "Release date": "29/10/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense August 2022",
+        "Minor Version": "Patch 2",
+        "Build Number": "14.78.8",
+        "Release date": "12/10/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense August 2022",
+        "Minor Version": "Patch 1",
+        "Build Number": "14.78.7",
+        "Release date": "15/09/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense August 2022",
+        "Minor Version": "Initial release",
+        "Build Number": "14.78.5",
+        "Release date": "23/08/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense May 2022",
+        "Minor Version": "Patch 11",
+        "Build Number": "14.67.23",
+        "Release date": "21/12/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense May 2022",
+        "Minor Version": "Patch 10",
+        "Build Number": "14.67.22",
+        "Release date": "23/11/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense May 2022",
+        "Minor Version": "Patch 9",
+        "Build Number": "14.67.21",
+        "Release date": "09/11/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense May 2022",
+        "Minor Version": "Patch 8",
+        "Build Number": "14.67.20",
+        "Release date": "26/10/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense May 2022",
+        "Minor Version": "Patch 7",
+        "Build Number": "14.67.18",
+        "Release date": "12/10/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense May 2022",
+        "Minor Version": "Patch 6",
+        "Build Number": "14.67.17",
+        "Release date": "15/09/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense May 2022",
+        "Minor Version": "Patch 5",
+        "Build Number": "14.67.15",
+        "Release date": "24/08/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense May 2022",
+        "Minor Version": "Patch 4",
+        "Build Number": "14.67.13",
+        "Release date": "29/06/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense May 2022",
+        "Minor Version": "Patch 3",
+        "Build Number": "14.67.12",
+        "Release date": "15/06/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense May 2022",
+        "Minor Version": "Patch 2",
+        "Build Number": "14.67.9",
+        "Release date": "01/06/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense May 2022",
+        "Minor Version": "Patch 1",
+        "Build Number": "14.67.7",
+        "Release date": "18/05/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense May 2022",
+        "Minor Version": "Initial release",
+        "Build Number": "14.67.7",
+        "Release date": "10/05/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense February 2022",
+        "Minor Version": "Patch 13",
+        "Build Number": "14.54.22",
+        "Release date": "23/11/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense February 2022",
+        "Minor Version": "Patch 12",
+        "Build Number": "14.54.21",
+        "Release date": "09/11/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense February 2022",
+        "Minor Version": "Patch 11",
+        "Build Number": "14.54.20",
+        "Release date": "27/10/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense February 2022",
+        "Minor Version": "Patch 10",
+        "Build Number": "14.54.18",
+        "Release date": "12/10/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense February 2022",
+        "Minor Version": "Patch 9",
+        "Build Number": "14.54.17",
+        "Release date": "15/09/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense February 2022",
+        "Minor Version": "Patch 8",
+        "Build Number": "14.54.15",
+        "Release date": "24/08/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense February 2022",
+        "Minor Version": "Patch 7",
+        "Build Number": "14.54.12",
+        "Release date": "29/06/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense February 2022",
+        "Minor Version": "Patch 6",
+        "Build Number": "14.54.11",
+        "Release date": "15/06/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense February 2022",
+        "Minor Version": "Patch 5",
+        "Build Number": "14.54.10",
+        "Release date": "01/06/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense February 2022",
+        "Minor Version": "Patch 4",
+        "Build Number": "14.54.8",
+        "Release date": "18/05/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense February 2022",
+        "Minor Version": "Patch 3",
+        "Build Number": "14.54.6",
+        "Release date": "20/04/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense February 2022",
+        "Minor Version": "Patch 2",
+        "Build Number": "14.54.5",
+        "Release date": "23/03/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense February 2022",
+        "Minor Version": "Patch 1",
+        "Build Number": "14.54.4",
+        "Release date": "23/02/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense February 2022",
+        "Minor Version": "Initial release",
+        "Build Number": "14.54.2",
+        "Release date": "15/02/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense November 2021",
+        "Minor Version": "Patch 16",
+        "Build Number": "14.44.24",
+        "Release date": "23/10/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense November 2021",
+        "Minor Version": "Patch 15",
+        "Build Number": "14.44.23",
+        "Release date": "12/10/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense November 2021",
+        "Minor Version": "Patch 14",
+        "Build Number": "14.44.22",
+        "Release date": "15/09/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense November 2021",
+        "Minor Version": "Patch 13",
+        "Build Number": "14.44.20",
+        "Release date": "24/08/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense November 2021",
+        "Minor Version": "Patch 12",
+        "Build Number": "14.44.19",
+        "Release date": "29/06/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense November 2021",
+        "Minor Version": "Patch 11",
+        "Build Number": "14.44.18",
+        "Release date": "15/06/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense November 2021",
+        "Minor Version": "Patch 10",
+        "Build Number": "14.44.17",
+        "Release date": "01/06/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense November 2021",
+        "Minor Version": "Patch 9",
+        "Build Number": "14.44.15",
+        "Release date": "18/05/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense November 2021",
+        "Minor Version": "Patch 8",
+        "Build Number": "14.44.13",
+        "Release date": "20/04/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense November 2021",
+        "Minor Version": "Patch 7",
+        "Build Number": "14.44.12",
+        "Release date": "06/04/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense November 2021",
+        "Minor Version": "Patch 6",
+        "Build Number": "14.44.11",
+        "Release date": "23/03/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense November 2021",
+        "Minor Version": "Patch 5",
+        "Build Number": "14.44.10",
+        "Release date": "09/03/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense November 2021",
+        "Minor Version": "Patch 4",
+        "Build Number": "14.44.9",
+        "Release date": "27/01/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense November 2021",
+        "Minor Version": "Patch 3",
+        "Build Number": "14.44.8",
+        "Release date": "05/01/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense November 2021",
+        "Minor Version": "Patch 2",
+        "Build Number": "14.44.7",
+        "Release date": "17/12/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense November 2021",
+        "Minor Version": "Patch 1",
+        "Build Number": "14.44.6",
+        "Release date": "06/12/2021",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense November 2021",
+        "Minor Version": "Initial release",
+        "Build Number": "14.44.5",
+        "Release date": "10/11/2021",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense August 2021",
+        "Minor Version": "Patch 13",
+        "Build Number": "14.28.21",
+        "Release date": "29/06/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense August 2021",
+        "Minor Version": "Patch 12",
+        "Build Number": "14.28.20",
+        "Release date": "15/06/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense August 2021",
+        "Minor Version": "Patch 11",
+        "Build Number": "14.28.19",
+        "Release date": "18/05/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense August 2021",
+        "Minor Version": "Patch 10",
+        "Build Number": "14.28.17",
+        "Release date": "20/04/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense August 2021",
+        "Minor Version": "Patch 9",
+        "Build Number": "14.28.16",
+        "Release date": "23/03/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense August 2021",
+        "Minor Version": "Patch 8",
+        "Build Number": "14.28.15",
+        "Release date": "23/02/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense August 2021",
+        "Minor Version": "Patch 7",
+        "Build Number": "14.28.14",
+        "Release date": "27/01/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense August 2021",
+        "Minor Version": "Patch 6",
+        "Build Number": "14.28.13",
+        "Release date": "05/01/2022",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense August 2021",
+        "Minor Version": "Patch 5",
+        "Build Number": "14.28.12",
+        "Release date": "17/12/2021",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
+        "Major Version": "Qlik Sense August 2021",
+        "Minor Version": "Patch 4",
+        "Build Number": "14.28.10",
+        "Release date": "17/12/2021",
+        "End of support": "As per initial release",
+        "Notes": ""
+    },
+    {
         "Major Version": "Qlik Sense August 2021",
         "Minor Version": "Patch 3",
         "Build Number": "14.28.9",
